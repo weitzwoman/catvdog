@@ -11,3 +11,9 @@ img {
 button {
   margin-top: 20px;
 }
+
+ul {
+  text-align: center;
+  list-style: none;
+  margin-right: 50px;
+}
